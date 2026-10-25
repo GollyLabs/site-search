@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Site Search logo">
+  <defs>
+    <linearGradient id="background" x1="18" y1="12" x2="110" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#246BFD"/>
+      <stop offset="1" stop-color="#1746B3"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="26" fill="url(#background)"/>
+  <circle cx="53" cy="51" r="29" fill="none" stroke="#FFFFFF" stroke-width="12"/>
+  <path d="M74 73L102 101" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="53" cy="51" r="8" fill="#55E6C1"/>
+</svg>
